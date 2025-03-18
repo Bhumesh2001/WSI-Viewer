@@ -1,0 +1,69 @@
+{
+  "id": 19,
+  "patient_id": "7",
+  "wsi_video_url": "None",
+  "inference_results": {
+    "delayTime": 950,
+    "executionTime": 7223,
+    "id": "sync-e1323ad4-a299-4159-9342-1fa220a3c2b5-e1",
+    "output": {
+      "detection_results": [
+        [
+          121,
+          4,
+          163,
+          45,
+          "Circular_RBC"
+        ],
+        [
+          396,
+          312,
+          433,
+          353,
+          "Circular_RBC"
+        ],
+        [
+          388,
+          90,
+          428,
+          130,
+          "Circular_RBC"
+        ],
+        [
+          334,
+          157,
+          373,
+          199,
+          "Circular_RBC"
+        ],
+        [
+          27,
+          148,
+          64,
+          190,
+          "Circular_RBC"
+        ],
+        [
+          89,
+          339,
+          131,
+          380,
+          "Circular_RBC"
+        ],
+        [
+          346,
+          222,
+          381,
+          265,
+          "Circular_RBC"
+        ]
+      ]
+    },
+    "status": "COMPLETED",
+    "workerId": "vgfqxs1imv8aym"
+  },
+  "celery_status": "completed",
+  "filename": "image.png",
+  "sample_type": "blood",
+  "date": "2024-12-09"
+}
